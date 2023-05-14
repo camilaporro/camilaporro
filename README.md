@@ -1,7 +1,7 @@
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </p>
-<font size="100">📚 Estudiando Programación en la UTN</font>
+<font size="200">📚 Estudiando Programación en la UTN</font>
 
 
 
