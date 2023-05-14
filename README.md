@@ -1,8 +1,8 @@
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-  <img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNiMThjZTlhYWVjNDE5YjYwOWY0OTAxNDJkMTk1ZTMzZDEwMGUzZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Yfl7CS7vQqnebA69aH/giphy.gif">
 </p>
-### :ballot_box_with_check:Estudiando Programación en la UTN
+:books:
+📚 Estudiando Programación en la UTN
 
 <!--
 **camilaporro/camilaporro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
